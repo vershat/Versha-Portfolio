@@ -5,7 +5,6 @@ This project is a personal portfolio with chatbot created using JavaScript, Reac
 
 ## Deployed Link
 
-(https://versha-portfolios.vercel.app/)
 
 ## Technologies Used
 
