@@ -5,7 +5,7 @@ function Contact() {
     email: "shonadeep607@gmail.com",
     phone: "8529081632",
     github: "https://github.com/vershat",
-    linkedin: "https://linkedin.com/in/vershaYadav"
+    linkedin: "https://www.linkedin.com/in/versha-yadav-491583225/"
   };
 
   const handleEmailClick = () => {
